@@ -22,11 +22,9 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m student at SMKN 1 Ciamis majoring in software engineering.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I read books, especially light novels.
 
 - :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/-satyanr84-blue?style=flat&logo=Gmail&logoColor=white)](mailto:satyanr84@gmail.com)
 
