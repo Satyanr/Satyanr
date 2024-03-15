@@ -78,3 +78,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyanr&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+---
+
+### 📑 Praktik Kerja Lapangan/Field Work Practices Project:
+🔖 ((https://github.com/Satyanr/pengaduan_app) **APEL**
+🔖 ((https://github.com/Satyanr/manajemen_bengkel) **Manajemen Bengkel**
+🔖 ((https://github.com/Satyanr/pelatihan_app) **Pelatihan APP**
+🔖 ((https://github.com/Satyanr/latihan_lms) **LMS**
+
+
