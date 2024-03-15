@@ -14,6 +14,10 @@
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+  <h1>
+    hey there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
   
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdrNGRzeHd5bDA2czNiN2k1c25wZGFzZ3h4ZWdhMXJscnQ1dmpmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="400"/>
 </div>
