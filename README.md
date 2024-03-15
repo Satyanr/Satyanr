@@ -82,9 +82,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 📑 Praktik Kerja Lapangan/Field Work Practices Project:
-🔖 ((https://github.com/Satyanr/pengaduan_app) **APEL**
-🔖 ((https://github.com/Satyanr/manajemen_bengkel) **Manajemen Bengkel**
-🔖 ((https://github.com/Satyanr/pelatihan_app) **Pelatihan APP**
-🔖 ((https://github.com/Satyanr/latihan_lms) **LMS**
+🔖 [APEL](https://github.com/Satyanr/pengaduan_app) <br>
+🔖 [Manajemen Bengkel](https://github.com/Satyanr/manajemen_bengkel)<br>
+🔖 [Pelatihan APP](https://github.com/Satyanr/pelatihan_app)<br>
+🔖 [LMS](https://github.com/Satyanr/latihan_lms)<br>
 
 
