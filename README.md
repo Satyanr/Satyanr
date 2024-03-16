@@ -88,3 +88,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 🔖 [LMS](https://github.com/Satyanr/latihan_lms)<br>
 
 
+### 📑 School Project:
+🔖 [Loundry APP](https://github.com/Satyanr/loundry_app) <br>
+
+
