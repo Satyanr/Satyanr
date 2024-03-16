@@ -92,6 +92,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ### 📑 School Project:
-🔖 [Loundry APP](https://github.com/Satyanr/loundry_app) <br>
+🔖 [Laundry APP](https://github.com/Satyanr/laundry_app) <br>
 
 
