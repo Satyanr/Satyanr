@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/90590677?v=4" width="100"/>
   <div id="badges">
-    <a href="javascript:void(0)">
+    <a href="https://www.linkedin.com/in/satya-n-r-962564293/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://www.facebook.com/profile.php?id=100010694021366">
