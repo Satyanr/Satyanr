@@ -96,6 +96,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 🔖 [Survei Layanan](https://github.com/Satyanr/survei_layanan_smea.git) <br>
 
 ### 🎮 Game
-🔖[Typing Game](https://satyanr.github.io/typing-game/) <br>
+🔖[Typing Boat](https://satyanr.github.io/typing-game/) <br>
 
 
