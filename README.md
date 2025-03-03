@@ -76,7 +76,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 <div align="center">
   
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Satyanr&theme=transparent&mode=weekly&card_width=500" alt="GitHub Streak" /></a><br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=satyanr)](https://git.io/streak-stats)<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyanr&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
