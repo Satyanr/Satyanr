@@ -83,6 +83,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
+### 📑 Project:
+🔖 [Camlytics Export Reader]([https://pengaduan.kejuruan.id/](https://satyanr.github.io/Camlytics-Export-Reader/) <br>
 
 ### 📑 Praktik Kerja Lapangan/Field Work Practices Project:
 🔖 [APEL](https://pengaduan.kejuruan.id/) <br>
