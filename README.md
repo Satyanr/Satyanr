@@ -99,7 +99,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🎮 Game
 🔖[Typing Boat](https://satyanr.github.io/typing-game/) <br>
-🔖[Lucky Fishing](https://satyanr.github.io/typing-game/](https://satyanr.github.io/Lucky-Fishing/ ) <br>
-🔖[Apex Circuit](https://satyanr.github.io/typing-game/](https://satyanr.github.io/Apex-Circuit-GitHub-Pages/ ) <br>
+🔖[Lucky Fishing](https://satyanr.github.io/Lucky-Fishing/) <br>
+🔖[Apex Circuit](https://satyanr.github.io/Apex-Circuit-GitHub-Pages/) <br>
 
 
